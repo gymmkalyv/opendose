@@ -73,5 +73,5 @@
 <p style="text-align: justify;">Για να λάβετε το πλήρες περιεχόμενο του έργου που φαίνεται παρακάτω πατήστε <a href="https://gym-m-kalyv.tri.sch.gr/wp-content/uploads/2026/05/ΕΡΓΟ-ΕΛΛΑΚ-2026-v3.pdf">εδώ</a>.</p>
 
 <p style="text-align: justify;">Παρακάτω ακολουθεί το βίντεο με την αναλυτική παρουσίαση του τρόπου λειτουργίας της συσκευής που δημιουργήθηκε στο πλαίσιο αυτού του προγράμματος.</p>
-[video width="854" height="480" mp4="https://gym-m-kalyv.tri.sch.gr/wp-content/uploads/2026/05/OpenDose2.mp4"][/video]
+[video width="854" height="480" mp4="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2026/05/OpenDose2.mp4"][/video]
 <p style="text-align: justify;"><a href="https://gym-m-kalyv.tri.sch.gr/wp-content/uploads/2026/05/ΕΡΓΟ-ΕΛΛΑΚ-2026-v2.pdf"></a></p>
