@@ -71,7 +71,7 @@
 <p style="padding-left: 40px; text-align: justify;"><strong>δ. Υλοποίηση των εκπαιδευτικών στόχων</strong></p>
 <p style="padding-left: 40px; text-align: justify;">Μέσα από το έργο, οι μαθητές/τριες ανέπτυξαν ψηφιακές και αλγοριθμικές δεξιότητες (σύνταξη κώδικα, χρήση λογικών πυλών AND), εξοικειώθηκαν με την 3D σχεδίαση και τα ηλεκτρονικά κυκλώματα. Κυρίως, όμως, βίωσαν τη σύνδεση της τεχνολογίας με την κοινωνική ενσυναίσθηση, δημιουργώντας μια λύση με πραγματικό αντίκτυπο σε ευάλωτες ομάδες.</p>
 <p style="text-align: justify;">Για να λάβετε το πλήρες περιεχόμενο του έργου που φαίνεται παρακάτω πατήστε <a href="https://gym-m-kalyv.tri.sch.gr/wp-content/uploads/2026/05/ΕΡΓΟ-ΕΛΛΑΚ-2026-v3.pdf">εδώ</a>.</p>
-<p style="text-align: center;"><a href="https://online.flippingbook.com/view/679973416/" class="fbo-embed" data-fbo-id="5cfedda843" data-fbo-ratio="3:2" data-fbo-lightbox="yes" data-fbo-width="100%" data-fbo-height="auto" data-fbo-version="1" style="max-width: 100%;">ΕΡΓΟ ΕΛΛΑΚ 2026 v3</a><script async defer src="https://online.flippingbook.com/EmbedScriptUrl.aspx?m=redir&hid=679973416"></script></p>
+
 <p style="text-align: justify;">Παρακάτω ακολουθεί το βίντεο με την αναλυτική παρουσίαση του τρόπου λειτουργίας της συσκευής που δημιουργήθηκε στο πλαίσιο αυτού του προγράμματος.</p>
 [video width="854" height="480" mp4="https://gym-m-kalyv.tri.sch.gr/wp-content/uploads/2026/05/OpenDose2.mp4"][/video]
 <p style="text-align: justify;"><a href="https://gym-m-kalyv.tri.sch.gr/wp-content/uploads/2026/05/ΕΡΓΟ-ΕΛΛΑΚ-2026-v2.pdf"></a></p>
